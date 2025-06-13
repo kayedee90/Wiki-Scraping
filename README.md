@@ -77,3 +77,11 @@ And your `leaders.json` will look like:
 
 ---
 
+## Timeline
+📅 Project Start Date: June 11, 2025 9:30 AM   
+⏳ Challenge Duration: 3 days   
+⏰ Deadline: June 13, 2025, 5:00 PM
+
+## Personal Situation
+My first experience with scraping. It took me a long time to grasp the basic concepts, and even longer to be able to putt them together. 
+The project was not finished to my satisfaction. Will update in the future.
