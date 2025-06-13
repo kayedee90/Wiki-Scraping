@@ -1,6 +1,6 @@
 # Wiki Scraper
 
-A simple Python script that fetches current country leaders from an API, saves them to JSON, pretty-prints their info (with clickable terminal links!), and pulls the first paragraph from each leader’s Wikipedia page.
+A simple Python script that fetches current country leaders from an API, saves them to JSON, pretty-prints their info and pulls the first paragraph from each leader’s Wikipedia page.
 
 ---
 
